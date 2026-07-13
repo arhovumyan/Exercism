@@ -1,0 +1,4 @@
+/Users/aro/Exercism/cpp/pangram/build/CMakeFiles/pangram.dir
+/Users/aro/Exercism/cpp/pangram/build/CMakeFiles/test_pangram.dir
+/Users/aro/Exercism/cpp/pangram/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/pangram/build/CMakeFiles/rebuild_cache.dir

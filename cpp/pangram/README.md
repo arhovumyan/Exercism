@@ -1,8 +1,5 @@
 # Pangram
 
-Welcome to Pangram on Exercism's C++ Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Introduction
 
 You work for a company that sells fonts through their website.
