@@ -1,0 +1,4 @@
+/Users/aro/Exercism/cpp/interest-is-interesting/build/CMakeFiles/interest-is-interesting.dir
+/Users/aro/Exercism/cpp/interest-is-interesting/build/CMakeFiles/test_interest-is-interesting.dir
+/Users/aro/Exercism/cpp/interest-is-interesting/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/interest-is-interesting/build/CMakeFiles/rebuild_cache.dir

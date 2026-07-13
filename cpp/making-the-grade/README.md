@@ -57,7 +57,7 @@ indie_rock.back() = "yeahs";
 ```
 
 > Note: If you pick a position that is not in the range of your container, `[]` might lead to undefined behavior.
-> The `at` function would raise an exception, which might make your life easier in the long term.
+> The `at` function would raise pan exception, which might make your life easier in the long term.
 
 ### Vector modifiers
 
