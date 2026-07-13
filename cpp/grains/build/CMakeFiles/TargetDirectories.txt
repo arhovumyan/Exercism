@@ -1,0 +1,4 @@
+/Users/aro/Exercism/cpp/grains/build/CMakeFiles/grains.dir
+/Users/aro/Exercism/cpp/grains/build/CMakeFiles/test_grains.dir
+/Users/aro/Exercism/cpp/grains/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/grains/build/CMakeFiles/rebuild_cache.dir
