@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aroho\Exercism\cpp\two-fer\build\CMakeFiles\11a41cbac542b7ce97355dcbdcd455ca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FDFE64AD-6B3D-3E99-AAB1-77DBE1A5BAF2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

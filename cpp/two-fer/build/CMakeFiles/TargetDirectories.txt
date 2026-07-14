@@ -1,0 +1,4 @@
+C:/Users/aroho/Exercism/cpp/two-fer/build/CMakeFiles/two-fer.dir
+C:/Users/aroho/Exercism/cpp/two-fer/build/CMakeFiles/test_two-fer.dir
+C:/Users/aroho/Exercism/cpp/two-fer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aroho/Exercism/cpp/two-fer/build/CMakeFiles/ZERO_CHECK.dir

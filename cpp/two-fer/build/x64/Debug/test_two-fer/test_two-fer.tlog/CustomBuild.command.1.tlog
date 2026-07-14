@@ -1,0 +1,20 @@
+^C:\USERS\AROHO\EXERCISM\CPP\TWO-FER\BUILD\CMAKEFILES\11A41CBAC542B7CE97355DCBDCD455CA\TEST_TWO-FER.RULE
+setlocal
+Debug\two-fer.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AROHO\EXERCISM\CPP\TWO-FER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/two-fer -BC:/Users/aroho/Exercism/cpp/two-fer/build --check-stamp-file C:/Users/aroho/Exercism/cpp/two-fer/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
