@@ -1,0 +1,20 @@
+^C:\USERS\AROHO\EXERCISM\CPP\DOCTOR-DATA\BUILD\CMAKEFILES\6D248CBA6F2D29E1EDD8FFCD715F2400\TEST_DOCTOR-DATA.RULE
+setlocal
+Debug\doctor-data.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\AROHO\EXERCISM\CPP\DOCTOR-DATA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/doctor-data -BC:/Users/aroho/Exercism/cpp/doctor-data/build --check-stamp-file C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

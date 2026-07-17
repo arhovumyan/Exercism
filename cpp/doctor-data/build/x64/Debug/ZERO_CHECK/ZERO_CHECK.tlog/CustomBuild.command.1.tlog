@@ -1,0 +1,10 @@
+^C:\USERS\AROHO\EXERCISM\CPP\DOCTOR-DATA\BUILD\CMAKEFILES\6D248CBA6F2D29E1EDD8FFCD715F2400\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/doctor-data -BC:/Users/aroho/Exercism/cpp/doctor-data/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aroho/Exercism/cpp/doctor-data/build/doctor-data.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

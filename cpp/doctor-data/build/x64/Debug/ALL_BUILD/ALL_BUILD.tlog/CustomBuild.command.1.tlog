@@ -1,0 +1,10 @@
+^C:\USERS\AROHO\EXERCISM\CPP\DOCTOR-DATA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/doctor-data -BC:/Users/aroho/Exercism/cpp/doctor-data/build --check-stamp-file C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

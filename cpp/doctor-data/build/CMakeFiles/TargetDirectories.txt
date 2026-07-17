@@ -1,0 +1,4 @@
+C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/doctor-data.dir
+C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/test_doctor-data.dir
+C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aroho/Exercism/cpp/doctor-data/build/CMakeFiles/ZERO_CHECK.dir
