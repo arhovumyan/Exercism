@@ -8,9 +8,8 @@
 
 namespace heaven {
 
-            Vessel::Vessel(std::string vessel_name, int vessel_generation,
-                star_map::System vessel_system)
-                : name{vessel_name},
+            Vessel::Vessel(std::string vessel_name, int vessel_generation, star_map::System vessel_system)
+              : name{vessel_name},
                 generation{vessel_generation},
                 current_system{vessel_system}
                 {}
