@@ -1,4 +1,4 @@
-C:/Users/aroho/Exercism/cpp/lasagna-master/build/CMakeFiles/lasagna-master.dir
-C:/Users/aroho/Exercism/cpp/lasagna-master/build/CMakeFiles/test_lasagna-master.dir
-C:/Users/aroho/Exercism/cpp/lasagna-master/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/aroho/Exercism/cpp/lasagna-master/build/CMakeFiles/ZERO_CHECK.dir
+/Users/aro/Exercism/cpp/lasagna-master/build/CMakeFiles/lasagna-master.dir
+/Users/aro/Exercism/cpp/lasagna-master/build/CMakeFiles/test_lasagna-master.dir
+/Users/aro/Exercism/cpp/lasagna-master/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/lasagna-master/build/CMakeFiles/rebuild_cache.dir

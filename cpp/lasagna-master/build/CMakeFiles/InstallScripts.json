@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/aroho/Exercism/cpp/lasagna-master/build/cmake_install.cmake"
+		"/Users/aro/Exercism/cpp/lasagna-master/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
