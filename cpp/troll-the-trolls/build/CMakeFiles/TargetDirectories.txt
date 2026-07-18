@@ -1,0 +1,4 @@
+/Users/aro/Exercism/cpp/troll-the-trolls/build/CMakeFiles/troll-the-trolls.dir
+/Users/aro/Exercism/cpp/troll-the-trolls/build/CMakeFiles/test_troll-the-trolls.dir
+/Users/aro/Exercism/cpp/troll-the-trolls/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/troll-the-trolls/build/CMakeFiles/rebuild_cache.dir

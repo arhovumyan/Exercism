@@ -1,5 +1,5 @@
 #include "lasagna_master.h"
-#pragma once
+// #pragma once
 #include <vector>
 #include <utility>
 
@@ -18,9 +18,15 @@ void addSecretIngredient(std::vector<std::string>& layer1, const std::vector<std
     layer1.back() = layer2.back();
 }
 
-std::vector<std::double> scaleRecipe(const std::vector<std::double>& amount, const int portions){
-    for (int& n : amount) n = n * portions / 2; 
-    return n;
+void addSecretIngredient(std::vector<std::string>& layer1, const std::string someString){
+    layer1.back() = someString;   
+}
+
+std::vector<double> scaleRecipe(const std::vector<double>& amount, const int portions){
+    std::vector<double> result = amount;
+
+    for (double& n : result) n = n * portions / 2; 
+    return result;
 }
 
 int remainingOvenTime(int actualMinutesInOven) {
