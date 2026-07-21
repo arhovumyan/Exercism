@@ -1,0 +1,4 @@
+/Users/aro/Exercism/cpp/power-of-troy/build/CMakeFiles/power-of-troy.dir
+/Users/aro/Exercism/cpp/power-of-troy/build/CMakeFiles/test_power-of-troy.dir
+/Users/aro/Exercism/cpp/power-of-troy/build/CMakeFiles/edit_cache.dir
+/Users/aro/Exercism/cpp/power-of-troy/build/CMakeFiles/rebuild_cache.dir
