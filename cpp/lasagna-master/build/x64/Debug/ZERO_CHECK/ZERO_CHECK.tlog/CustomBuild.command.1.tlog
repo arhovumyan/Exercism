@@ -1,0 +1,10 @@
+^C:\USERS\AROHO\EXERCISM\CPP\LASAGNA-MASTER\BUILD\CMAKEFILES\C7C1CC163CCF6A65F08E6A4BB733B8BE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/lasagna-master -BC:/Users/aroho/Exercism/cpp/lasagna-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aroho/Exercism/cpp/lasagna-master/build/lasagna-master.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
