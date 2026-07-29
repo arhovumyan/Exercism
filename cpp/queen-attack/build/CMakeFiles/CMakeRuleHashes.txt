@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+0a825be6ba543b4ca5527566ce8fa7bb CMakeFiles/test_queen-attack
