@@ -1,0 +1,10 @@
+^C:\USERS\AROHO\EXERCISM\CPP\SIEVE\BUILD\CMAKEFILES\799C9E8E8D5670A8BA00AD1CB115CFF7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aroho/Exercism/cpp/sieve -BC:/Users/aroho/Exercism/cpp/sieve/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aroho/Exercism/cpp/sieve/build/sieve.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

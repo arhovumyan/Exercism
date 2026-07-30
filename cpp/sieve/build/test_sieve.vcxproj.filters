@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aroho\Exercism\cpp\sieve\build\CMakeFiles\799c9e8e8d5670a8ba00ad1cb115cff7\test_sieve.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\aroho\Exercism\cpp\sieve\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\aroho\Exercism\cpp\sieve\build\CMakeFiles\test_sieve" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5036FC77-B2A9-3340-9DB3-55E7E7FF3F57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
