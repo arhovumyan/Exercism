@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/secret-handshake.dir/secret_handshake_test.cpp.o" "CMakeFiles/secret-handshake.dir/secret_handshake.cpp.o" "CMakeFiles/secret-handshake.dir/test/tests-main.cpp.o" -o secret-handshake
